@@ -1,0 +1,106 @@
+[19-Mar-2024 17:49:07 Africa/Cairo] PHP Warning:  Undefined array key "position" in /home/optivwfc/public_html/zad90/employeesadd.php on line 28
+[19-Mar-2024 17:49:07 Africa/Cairo] PHP Deprecated:  stripcslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /home/optivwfc/public_html/zad90/main/helper/functions.php on line 3
+[19-Mar-2024 21:53:46 Africa/Cairo] PHP Notice:  Only variables should be passed by reference in /home/optivwfc/public_html/zad90/requestdeparture.php on line 26
+[19-Mar-2024 21:53:46 Africa/Cairo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'workhour' in 'field list' in /home/optivwfc/public_html/zad90/requestdeparture.php:28
+Stack trace:
+#0 /home/optivwfc/public_html/zad90/requestdeparture.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/optivwfc/public_html/zad90/requestdeparture.php on line 28
+[19-Mar-2024 21:53:49 Africa/Cairo] PHP Notice:  Only variables should be passed by reference in /home/optivwfc/public_html/zad90/requestdeparture.php on line 26
+[19-Mar-2024 21:53:49 Africa/Cairo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'workhour' in 'field list' in /home/optivwfc/public_html/zad90/requestdeparture.php:28
+Stack trace:
+#0 /home/optivwfc/public_html/zad90/requestdeparture.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/optivwfc/public_html/zad90/requestdeparture.php on line 28
+[19-Mar-2024 21:53:54 Africa/Cairo] PHP Notice:  Only variables should be passed by reference in /home/optivwfc/public_html/zad90/requestdeparture.php on line 26
+[19-Mar-2024 21:53:54 Africa/Cairo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'workhour' in 'field list' in /home/optivwfc/public_html/zad90/requestdeparture.php:28
+Stack trace:
+#0 /home/optivwfc/public_html/zad90/requestdeparture.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/optivwfc/public_html/zad90/requestdeparture.php on line 28
+[22-Mar-2024 17:06:08 Africa/Cairo] PHP Warning:  Undefined array key "position" in /home/optivwfc/public_html/zad90/employeesadd.php on line 28
+[22-Mar-2024 17:06:08 Africa/Cairo] PHP Deprecated:  stripcslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /home/optivwfc/public_html/zad90/main/helper/functions.php on line 3
+[25-Mar-2024 19:47:12 Africa/Cairo] PHP Warning:  Undefined array key "position" in /home/optivwfc/public_html/zad90/employeesadd.php on line 28
+[25-Mar-2024 19:47:12 Africa/Cairo] PHP Deprecated:  stripcslashes(): Passing null to parameter #1 ($string) of type string is deprecated in /home/optivwfc/public_html/zad90/main/helper/functions.php on line 3
+[28-Mar-2024 17:54:26 Africa/Cairo] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * float in /home/optivwfc/public_html/zad90/salarydetails.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/optivwfc/public_html/zad90/salarydetails.php on line 72
+[28-Mar-2024 17:55:14 Africa/Cairo] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * float in /home/optivwfc/public_html/zad90/salarydetails.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/optivwfc/public_html/zad90/salarydetails.php on line 72
+[28-Mar-2024 17:55:19 Africa/Cairo] PHP Warning:  Undefined array key "month" in /home/optivwfc/public_html/zad90/salarydetails.php on line 16
+[28-Mar-2024 17:55:19 Africa/Cairo] PHP Warning:  Undefined array key "month" in /home/optivwfc/public_html/zad90/salarydetails.php on line 46
+[28-Mar-2024 17:55:19 Africa/Cairo] PHP Fatal error:  Uncaught TypeError: cal_days_in_month(): Argument #2 ($month) must be of type int, string given in /home/optivwfc/public_html/zad90/salarydetails.php:47
+Stack trace:
+#0 /home/optivwfc/public_html/zad90/salarydetails.php(47): cal_days_in_month()
+#1 {main}
+  thrown in /home/optivwfc/public_html/zad90/salarydetails.php on line 47
+[28-Mar-2024 18:00:12 Africa/Cairo] PHP Warning:  Undefined array key "month" in /home/optivwfc/public_html/zad90/salarydetails.php on line 16
+[28-Mar-2024 18:00:12 Africa/Cairo] PHP Warning:  Undefined array key "month" in /home/optivwfc/public_html/zad90/salarydetails.php on line 46
+[28-Mar-2024 18:00:12 Africa/Cairo] PHP Fatal error:  Uncaught TypeError: cal_days_in_month(): Argument #2 ($month) must be of type int, string given in /home/optivwfc/public_html/zad90/salarydetails.php:47
+Stack trace:
+#0 /home/optivwfc/public_html/zad90/salarydetails.php(47): cal_days_in_month()
+#1 {main}
+  thrown in /home/optivwfc/public_html/zad90/salarydetails.php on line 47
+[28-Mar-2024 18:00:13 Africa/Cairo] PHP Warning:  Undefined array key "month" in /home/optivwfc/public_html/zad90/salarydetails.php on line 16
+[28-Mar-2024 18:00:13 Africa/Cairo] PHP Warning:  Undefined array key "month" in /home/optivwfc/public_html/zad90/salarydetails.php on line 46
+[28-Mar-2024 18:00:13 Africa/Cairo] PHP Fatal error:  Uncaught TypeError: cal_days_in_month(): Argument #2 ($month) must be of type int, string given in /home/optivwfc/public_html/zad90/salarydetails.php:47
+Stack trace:
+#0 /home/optivwfc/public_html/zad90/salarydetails.php(47): cal_days_in_month()
+#1 {main}
+  thrown in /home/optivwfc/public_html/zad90/salarydetails.php on line 47
+[28-Mar-2024 18:00:17 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 18:00:36 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 18:08:26 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 18:09:17 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 18:09:19 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 18:11:24 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 18:11:44 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 18:11:46 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 18:11:56 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 18:12:40 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 18:12:46 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:05:54 Africa/Cairo] PHP Warning:  Undefined array key "employeeid" in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 10
+[28-Mar-2024 19:05:54 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 96
+[28-Mar-2024 19:05:54 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 97
+[28-Mar-2024 19:05:54 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 103
+[28-Mar-2024 19:05:54 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 107
+[28-Mar-2024 19:06:12 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:06:44 Africa/Cairo] PHP Warning:  Undefined array key "employeeid" in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 10
+[28-Mar-2024 19:06:44 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 96
+[28-Mar-2024 19:06:44 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 97
+[28-Mar-2024 19:06:44 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 103
+[28-Mar-2024 19:06:44 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 107
+[28-Mar-2024 19:08:23 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:09:16 Africa/Cairo] PHP Warning:  Undefined array key "employeeid" in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 10
+[28-Mar-2024 19:09:16 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 96
+[28-Mar-2024 19:09:16 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 97
+[28-Mar-2024 19:09:16 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 103
+[28-Mar-2024 19:09:16 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 107
+[28-Mar-2024 19:09:55 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:10:18 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:10:47 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:11:06 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:12:29 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:12:33 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:30:30 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:32:51 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:33:04 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:33:28 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:37:05 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:37:05 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:53:46 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 19:54:19 Africa/Cairo] PHP Warning:  Undefined array key "employeeid" in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 10
+[28-Mar-2024 19:54:19 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 96
+[28-Mar-2024 19:54:19 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 97
+[28-Mar-2024 19:54:19 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 103
+[28-Mar-2024 19:54:19 Africa/Cairo] PHP Warning:  Trying to access array offset on value of type bool in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 107
+[28-Mar-2024 19:54:24 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 20:02:49 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 20:02:59 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 20:07:42 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[28-Mar-2024 20:07:58 Africa/Cairo] PHP Warning:  Undefined variable $amount in /home/optivwfc/public_html/zad90/salarydetails.php on line 153
+[29-Mar-2024 17:07:01 Africa/Cairo] PHP Warning:  Undefined array key "employeeid" in /home/optivwfc/public_html/zad90/employeesalaryreport.php on line 10
+[01-Apr-2024 10:24:29 Africa/Cairo] PHP Warning:  Undefined array key "employeeid" in /home/optimass/public_html/zad90/employeesalaryreport.php on line 10
